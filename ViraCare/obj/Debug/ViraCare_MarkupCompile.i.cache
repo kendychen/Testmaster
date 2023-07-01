@@ -10,11 +10,19 @@ none
 false
 DEBUG;TRACE
 C:\Users\Nghia\Desktop\Vira\ViraCare\ViraCare\App.xaml
+<<<<<<< HEAD
 1219584333
 
 6-793535042
 13-38814620
 MainWindow.xaml;
+=======
+7-552424495
+3-1269485175
+121369064979
+881636886996
+MainWindow.xaml;Styles\Image.xaml;Styles\MenuBar.xaml;Styles\Menu\TextBlock.xaml;Styles\TextBlock.xaml;Utilities\DataTemplate.xaml;Views\EditAccountView.xaml;
+>>>>>>> giao_dien_v1
 
 True
 
