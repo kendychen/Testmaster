@@ -1,0 +1,16 @@
+﻿<Window xmlns:dxrudi="http://schemas.devexpress.com/winfx/2008/xaml/reports/userdesigner/internal" 
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ViraCare.Views"
+        xmlns:dxe="http://schemas.devexpress.com/winfx/2008/xaml/editors" x:Class="ViraCare.Views.EditAccountView"
+        mc:Ignorable="d"
+        Title="EditAccountView" Height="450" Width="800">
+    <Grid>
+        <!--<dxrudi:TextBlockEx />
+        <dxe:TextEdit x:Name="dxTextEdit"
+          ValidateOnTextInput="False"
+          Validate="dxTextEdit_Validate"/>-->
+    </Grid>
+</Window>

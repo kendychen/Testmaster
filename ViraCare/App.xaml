@@ -4,6 +4,14 @@
              xmlns:local="clr-namespace:ViraCare"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Styles/Menu/TextBlock.xaml"/>
+                <ResourceDictionary Source="Styles/Image.xaml"/>
+                <ResourceDictionary Source="Styles/TextBlock.xaml"/>
+                <ResourceDictionary Source="Styles/MenuBar.xaml"/>
+                <ResourceDictionary Source="Utilities/DataTemplate.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
     </Application.Resources>
 </Application>
