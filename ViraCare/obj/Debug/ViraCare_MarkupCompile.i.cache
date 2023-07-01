@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Nghia\Desktop\ViraCare\ViraCare\obj\Debug\
+C:\Users\Nghia\Desktop\Vira\ViraCare\ViraCare\obj\Debug\
 ViraCare
 none
 false
 DEBUG;TRACE
-C:\Users\Nghia\Desktop\ViraCare\ViraCare\App.xaml
+C:\Users\Nghia\Desktop\Vira\ViraCare\ViraCare\App.xaml
 7-552424495
-31541136989
+3-1269485175
 121369064979
-881658340864
+881636886996
 MainWindow.xaml;Styles\Image.xaml;Styles\MenuBar.xaml;Styles\Menu\TextBlock.xaml;Styles\TextBlock.xaml;Utilities\DataTemplate.xaml;Views\EditAccountView.xaml;
 
-False
+True
 
