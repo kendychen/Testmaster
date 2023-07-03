@@ -1,4 +1,4 @@
-﻿<Window xmlns:dxrudi="http://schemas.devexpress.com/winfx/2008/xaml/reports/userdesigner/internal" 
+﻿<Window xmlns:dxlc="http://schemas.devexpress.com/winfx/2008/xaml/layoutcontrol"  xmlns:dxdo="http://schemas.devexpress.com/winfx/2008/xaml/docking"  xmlns:dxrudi="http://schemas.devexpress.com/winfx/2008/xaml/reports/userdesigner/internal" 
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
@@ -8,9 +8,23 @@
         mc:Ignorable="d"
         Title="EditAccountView" Height="450" Width="800">
     <Grid>
-        <!--<dxrudi:TextBlockEx />
-        <dxe:TextEdit x:Name="dxTextEdit"
-          ValidateOnTextInput="False"
-          Validate="dxTextEdit_Validate"/>-->
+        <StackPanel>
+        <dxlc:LayoutControl>
+            <dxlc:LayoutItem Label="Họ và tên">
+                <dxe:TextEdit/>
+            </dxlc:LayoutItem>
+            <dxlc:LayoutItem Label="Nhóm">
+                <dxe:TextEdit/>
+            </dxlc:LayoutItem>
+        </dxlc:LayoutControl>
+        <dxlc:LayoutControl>
+            <dxlc:LayoutItem Label="Họ và tên">
+                <dxe:TextEdit/>
+            </dxlc:LayoutItem>
+            <dxlc:LayoutItem Label="Nhóm">
+                <dxe:TextEdit/>
+            </dxlc:LayoutItem>
+        </dxlc:LayoutControl>
+        </StackPanel>
     </Grid>
 </Window>

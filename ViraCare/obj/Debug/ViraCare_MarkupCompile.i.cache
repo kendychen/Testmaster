@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\Nghia\Desktop\Vira\ViraCare\App.xaml
-7-552424495
+11-1974106603
 3-1816081814
-121369064979
-88-1833794095
-MainWindow.xaml;Styles\Image.xaml;Styles\MenuBar.xaml;Styles\Menu\TextBlock.xaml;Styles\TextBlock.xaml;Utilities\DataTemplate.xaml;Views\EditAccountView.xaml;
+14-2101373060
+90469893266
+MainWindow.xaml;Styles\Image.xaml;Styles\MenuBar.xaml;Styles\Menu\TextBlock.xaml;Styles\TextBlock.xaml;Styles\UserControlBar\Image.xaml;Styles\UserControlBar\MenuBarMultiply.xaml;Styles\UserControlBar\MenuBar.xaml;Utilities\DataTemplate.xaml;Views\ControlBar.xaml;Views\EditAccountView.xaml;
 
-False
+True
 
