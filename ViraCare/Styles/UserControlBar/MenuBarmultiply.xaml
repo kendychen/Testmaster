@@ -1,6 +1,6 @@
 ﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
-    <Style x:Key="StyleControlBar"
+    <Style x:Key="StyleControlBarRed"
            TargetType="Button">
 
         <Setter Property="HorizontalAlignment"
@@ -26,7 +26,7 @@
                                     Width="4"
                                     HorizontalAlignment="Left"
                                     VerticalAlignment="Center"
-                                    Background="#f0f0f0"
+                                    Background="#e81123"
                                     Visibility="Collapsed"
                                     CornerRadius="2" />
 
@@ -53,8 +53,8 @@
                                 <Storyboard>
                                     <ColorAnimation Storyboard.TargetName="BorderBackground"
                                                     Storyboard.TargetProperty="Color"
-                                                    From="#f0f0f0"
-                                                    To="#f0f0f0"
+                                                    From="#e81123"
+                                                    To="#e81123"
                                                     Duration="0:0:0.3" />
                                 </Storyboard>
                             </BeginStoryboard>
