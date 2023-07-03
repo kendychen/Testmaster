@@ -334,6 +334,8 @@ C:\Users\Admin\Desktop\Vira\ViraCare\obj\Debug\ViraCare.csproj.CoreCompileInputs
 C:\Users\Admin\Desktop\Vira\ViraCare\obj\Debug\ViraCare.csproj.CopyComplete
 C:\Users\Admin\Desktop\Vira\ViraCare\obj\Debug\ViraCare.exe
 C:\Users\Admin\Desktop\Vira\ViraCare\obj\Debug\ViraCare.pdb
+<<<<<<< HEAD
+=======
 C:\Users\Admin\Desktop\Vira\ViraCare\obj\Debug\Views\ControlBar.g.cs
 C:\Users\Admin\Desktop\Vira\ViraCare\obj\Debug\Views\ControlBar.baml
 C:\Users\Admin\Desktop\Vira\ViraCare\bin\Debug\DevExpress.Map.v22.2.Core.dll
@@ -519,3 +521,4 @@ C:\Users\Nghia\Desktop\Vira\ViraCare\obj\Debug\ViraCare.csproj.CopyComplete
 C:\Users\Nghia\Desktop\Vira\ViraCare\obj\Debug\ViraCare.exe
 C:\Users\Nghia\Desktop\Vira\ViraCare\obj\Debug\ViraCare.pdb
 C:\Users\Nghia\Desktop\Vira\ViraCare\obj\Debug\Styles\UserControlBar\MenuBarMultiply.baml
+>>>>>>> giao_dien_v1
