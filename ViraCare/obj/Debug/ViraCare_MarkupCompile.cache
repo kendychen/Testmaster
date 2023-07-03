@@ -4,25 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Nghia\Desktop\Vira\ViraCare\obj\Debug\
+E:\ViraCare03072023\ViraCare\obj\Debug\
 ViraCare
 none
 false
 DEBUG;TRACE
-C:\Users\Nghia\Desktop\Vira\ViraCare\App.xaml
-<<<<<<< HEAD
-7-552424495
-3-1816081814
-121369064979
-88-1833794095
-MainWindow.xaml;Styles\Image.xaml;Styles\MenuBar.xaml;Styles\Menu\TextBlock.xaml;Styles\TextBlock.xaml;Utilities\DataTemplate.xaml;Views\EditAccountView.xaml;
-=======
-11-1974106603
-3-1816081814
-13271816115
-90469893266
+E:\ViraCare03072023\ViraCare\App.xaml
+11-110914243
+32081645184
+132002424118
+90-38724042
 MainWindow.xaml;Styles\Image.xaml;Styles\MenuBar.xaml;Styles\Menu\TextBlock.xaml;Styles\TextBlock.xaml;Styles\UserControlBar\Image.xaml;Styles\UserControlBar\MenuBarMultiply.xaml;Styles\UserControlBar\MenuBar.xaml;Utilities\DataTemplate.xaml;Views\ControlBar.xaml;Views\EditAccountView.xaml;
->>>>>>> giao_dien_v1
 
 True
 
